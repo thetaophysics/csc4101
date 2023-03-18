@@ -1,4 +1,4 @@
-# csc4101
+# CSC4101-Programming-Languages 
 
 I have done 2 programs on Scheme Pretty-Printer in CSC 4101 Programming Languages
 The pretty-printer will reads a Scheme program from standard input, parse it, and print it back out onto standard output. I used object-oriented programming style using inheritance and virtual functions in the code. 
